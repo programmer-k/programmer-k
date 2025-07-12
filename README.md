@@ -1,4 +1,4 @@
-[![[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiun9808)](https://solved.ac/jiun9808)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiun9808)](https://solved.ac/jiun9808)
 
 - 👋 Hi, I’m @programmer-k
 - 👀 I’m interested in ...
